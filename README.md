@@ -171,4 +171,4 @@ namespace DataAccessLayer.Test.EFRepositoryTest
 
 ```
 Clone or download the sample project and build it using visual studio or using the .net core CLI.  
-Email address: BehnamEyvazpoorkook@gmail.com
+Email address: **BehnamEyvazpoorkook@gmail.com**
