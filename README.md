@@ -1,11 +1,11 @@
 # .Net-Unit-Testing-Solution-For-Data-Access-Layer-
 .Net Unit Testing Solution For Data Access Layer  (#dotnetcore  #SQL #RepositoryPattern)
 
-# Problem:
+## Problem:
 Want to make sure that your variant Data-Access-Layer's implementations are operating as expected!
 In simple words, Testing the Data-Access-Layer.
 
-# Solution:
+## Solution:
 Add a new .Net test project to your solution.  
 Add a new folder to the test project and name it as Scripts.  
 Add a Sql script file and name it as `CreateDatabase.sql`.  
@@ -31,4 +31,6 @@ GO
 CREATE DATABASE Database_Test
 
 GO
-```
+```  
+Now use the SQL Server Management Studio to generate the Database script.
+* Don't export the whole database script. export only the tables and the StoredProcedures script.  
