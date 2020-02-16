@@ -143,3 +143,32 @@ namespace DataAccessLayer.Test.BaseRepositoryTest
 	}
 }
 ```
+Ok, now based on your implementation of Data-Access-Layer add other folders.  
+For example, suppose that you have an ADO implementation of the Data-Access-Layer, so you have to add a folder and name it as `AdoRepositoryTest` then add a Test class for the user repository which inherited  from the base user repository test class.  
+```c#
+using DataAccessLayer.EF;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+
+namespace DataAccessLayer.Test.EFRepositoryTest
+{
+	[TestClass]
+	public class UserRepositoryTest : BaseRepositoryTest.BaseUserRepositoryTest
+	{
+		[TestInitialize]
+		public override void TestInit()
+		{
+			usersRepository = new UsersRepository(TestConfigs.ConnectionString);
+			base.TestInit();
+		}
+
+		[TestMethod]
+		public override void GetUsers_MustReturnUsersAsExpectedTest()
+		{
+			base.GetUsers_MustReturnUsersAsExpectedTest();
+		}
+	}
+}
+
+```
+Clone or download the sample project and build it using visual studio or using the .net core CLI.
+Email address: BehnamEyvazpoorkook@gmail.com
