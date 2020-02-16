@@ -149,7 +149,7 @@ For example, suppose that you have an ADO implementation of the Data-Access-Laye
 using DataAccessLayer.Ado;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace DataAccessLayer.Test.EFRepositoryTest
+namespace DataAccessLayer.Test.AdoRepositoryTest
 {
 	[TestClass]
 	public class UserRepositoryTest : BaseRepositoryTest.BaseUserRepositoryTest
@@ -168,6 +168,7 @@ namespace DataAccessLayer.Test.EFRepositoryTest
 		}
 	}
 }
+
 
 ```
 Clone or download the sample project and build it using visual studio or using the .net core CLI.  
