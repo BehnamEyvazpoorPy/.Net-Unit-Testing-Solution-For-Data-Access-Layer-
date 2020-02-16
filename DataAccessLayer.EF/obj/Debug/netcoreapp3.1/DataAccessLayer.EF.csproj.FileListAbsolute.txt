@@ -1,0 +1,11 @@
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.EF\bin\Debug\netcoreapp3.1\DataAccessLayer.EF.deps.json
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.EF\bin\Debug\netcoreapp3.1\DataAccessLayer.EF.dll
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.EF\obj\Debug\netcoreapp3.1\DataAccessLayer.EF.csprojAssemblyReference.cache
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.EF\obj\Debug\netcoreapp3.1\DataAccessLayer.EF.AssemblyInfoInputs.cache
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.EF\obj\Debug\netcoreapp3.1\DataAccessLayer.EF.AssemblyInfo.cs
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.EF\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.EF\bin\Debug\netcoreapp3.1\DataAccessLayer.EF.pdb
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.EF\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.EF\obj\Debug\netcoreapp3.1\DataAccessLayer.EF.csproj.CopyComplete
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.EF\obj\Debug\netcoreapp3.1\DataAccessLayer.EF.dll
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.EF\obj\Debug\netcoreapp3.1\DataAccessLayer.EF.pdb

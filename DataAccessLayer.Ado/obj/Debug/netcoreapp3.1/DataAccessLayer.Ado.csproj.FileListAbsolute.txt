@@ -1,0 +1,11 @@
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.Ado\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.Ado\obj\Debug\netcoreapp3.1\DataAccessLayer.Ado.csprojAssemblyReference.cache
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.Ado\obj\Debug\netcoreapp3.1\DataAccessLayer.Ado.AssemblyInfoInputs.cache
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.Ado\obj\Debug\netcoreapp3.1\DataAccessLayer.Ado.AssemblyInfo.cs
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.Ado\bin\Debug\netcoreapp3.1\DataAccessLayer.Ado.deps.json
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.Ado\bin\Debug\netcoreapp3.1\DataAccessLayer.Ado.dll
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.Ado\bin\Debug\netcoreapp3.1\DataAccessLayer.Ado.pdb
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.Ado\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.Ado\obj\Debug\netcoreapp3.1\DataAccessLayer.Ado.csproj.CopyComplete
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.Ado\obj\Debug\netcoreapp3.1\DataAccessLayer.Ado.dll
+C:\Users\eyvazpour\source\repos\DataAccessLayerTestSolution\DataAccessLayer.Ado\obj\Debug\netcoreapp3.1\DataAccessLayer.Ado.pdb
