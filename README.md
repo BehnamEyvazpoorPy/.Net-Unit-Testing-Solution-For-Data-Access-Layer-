@@ -33,7 +33,7 @@ CREATE DATABASE Database_Test
 GO
 ```  
 Now use the SQL Server Management Studio to generate the Database script and name it as `CreateTables.Sql`.  
-* Don't export the whole database script. export only the tables and the StoredProcedures script.  
+Don't export the whole database script. export only the tables and the StoredProcedures script.  
 Add another script file and name it as `DataGenerate.Sql`  
 In this file write script to insert your test data into the target tables.
 ```
